@@ -131,7 +131,7 @@ const Projects = () => {
                               </Col>
                          </Row>
                          <Card.Body>
-                         <Card.Title className="text-danger">Health Care Service</Card.Title>
+                         <Card.Title className="text-danger">IT Institute</Card.Title>
                          <Card.Text className="text-primary">
                          <p>
                          • Tech Plan BD 
@@ -154,35 +154,7 @@ const Projects = () => {
                          </Card.Body>
                          </Card> 
                     </Col>
-                    <Col xs={12} md={12} lg={12}>
-                         <Card  className="shadow-lg p-3 mb-5 bg-body rounded">
-                         <Row>
-                              <Col xs={12} md={6} lg={6} className="mb-5">
-                                   <Card.Img className="img-fluid" variant="top" src={img3} />
-                              </Col>
-                              <Col xs={12} md={6} lg={6}>
-                                   <Card.Img className="img-fluid " variant="top" src={img10} />
-                              </Col>
-                              <Col xs={12} md={6} lg={6}>
-                                   <Card.Img className="img-fluid " variant="top" src={img11} />
-                              </Col>
-                             
-
-                         </Row>
-                         <Card.Body>
-                         <Card.Title className="text-danger">Health Care Service</Card.Title>
-                         <Card.Text className="text-primary">
-                         •	The Technology used: Html-5, CSS-3, React, React-Router-Dom, Bootstrap, Context-API, Firebase
-                         •    First time implement the Firebase Authentication system.
-                         •	User may log in with Google Login and Email Password Verification System.
-                         •    Deployed in Firebase
-                         </Card.Text>
-                         </Card.Body>
-                         <Card.Body>
-                         <Card.Link className="card-link-style" href="https://health-care-service-601f7.web.app/">Visit App</Card.Link>
-                         </Card.Body>
-                         </Card> 
-                    </Col>
+                    
                    </Row>
               </Container>
           </Container>

@@ -2,7 +2,7 @@ import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 import Typewriter from 'typewriter-effect';
 import './Banner.css'
-import img from '../../../images/myphoto/259313543_187647116910933_4044872418203406364_n-removebg-preview (1).png'
+
 
 
 const Banner = () => {
@@ -11,7 +11,7 @@ const Banner = () => {
                <Container>
                <Row >
                     <Col xs={12} md={6} lg={6} className="mt-5 d-flex justify-content-start">
-                        <div>
+                        <div className="mt-5">
                          <h1 className="text-info">
                          Hi, I’m <span className="custom-color">Rafiul Alam </span>
                          a   <Typewriter
@@ -32,9 +32,9 @@ const Banner = () => {
                        </div>
                          
                         </Col>
-                    <Col xs={12} md={6} lg={6} >
+                        <Col xs={12} md={6} lg={6} >
                     <div className="d-flex justify-content-center">
-                    <img  src={img} alt="" />
+                    <img className="img-fluid"  src="https://image.freepik.com/free-vector/businessman-entrepreneur-working-office-desk_3446-678.jpg" alt="" />
                     </div>
                     </Col>
                </Row>

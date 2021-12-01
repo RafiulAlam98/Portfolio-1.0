@@ -1,10 +1,11 @@
 import React from 'react';
+import { Container } from 'react-bootstrap';
 
 const Blogs = () => {
      return (
-          <div>
-              <h3>Blogs Are Coming Soon.</h3> 
-          </div>
+          <Container>
+              <h1 className="text-white fs-3 text-center">BLOGS ARE COMING SOON...</h1> 
+          </Container>
      );
 };
 

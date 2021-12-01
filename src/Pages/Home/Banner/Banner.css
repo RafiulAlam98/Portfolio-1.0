@@ -1,5 +1,5 @@
 .banner-container{
-     background-image: url('https://image.freepik.com/free-vector/hand-drawn-minimal-background_23-2149017896.jpg');
+     background-image: url('https://image.freepik.com/free-vector/hand-drawn-minimal-background_23-2149017896.jpg ');
      background-repeat: no-repeat;
      background-size: cover;
 }
@@ -7,13 +7,14 @@
      color: #FF014F;
 }
 .icon-style{
-     padding: 20px;
-     box-shadow: 1px 1px 1px 1px ;
+     padding: 13px;
+     box-shadow: 1px 1px 1px 1px white;
      text-decoration: none;
 }
 
 .icon-style:hover{
-     padding: 20px;
+     padding: 10px;
      color: white;
-     background-color: #E30D2B;
+     background-color: tomato;
 }
+

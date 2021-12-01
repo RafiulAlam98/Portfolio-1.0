@@ -1,3 +1,8 @@
+.feature-container{
+     background-image: url('https://image.freepik.com/free-photo/gray-abstract-wireframe-technology-background_53876-101941.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+}
 .card-link-style{
      text-decoration: none;
      color: tomato;

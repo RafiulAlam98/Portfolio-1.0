@@ -27,7 +27,7 @@ const Banner = () => {
                               
                          <a className="me-3" href='https://www.linkedin.com/in/m-rafiul-alam-65908a202/'><i className="icon-style rounded  fab fa-linkedin-in fa-lg"></i></a>
                          <a className="me-3" href='https://github.com/RafiulAlam98'><i className="icon-style rounded fab fa-github fa-lg"></i></a>
-                         <a className="me-2 icon-style rounded  fw-bold" href="https://drive.google.com/file/d/1d7YuNVZ4CkCK1mZm9r3FntWiA0Zleiyr/view?usp=sharing">Get Resume</a>
+                         <a className="me-2 icon-style rounded  fw-bold" href="https://drive.google.com/file/d/1EaTODZ4nxxJU6J5sNF9vSFckrNNBHzKv/view?usp=sharing">Get Resume</a>
                         </div>
                        </div>
                          
